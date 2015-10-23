@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "2b4f38e2b22fc26e8ed59ed48fb95a400882a312",
+  "LastProcessedCommit": "3745d9afabada7419484c18a402249c8926ddec4",
   "LastTranslatedCommit": null,
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
@@ -218,21 +218,6 @@
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-cn\\master\\64d931f0509211ef361f5e86225a53ab5fdd9131.xlf",
-      "HandoffFileCommit": "60a27f0b91294bdb20c982559489e3d2f0a36e5c",
-      "HandoffReason": 1,
-      "HandoffDateTime": "2015-10-13T03:51:20.0894202Z",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
-    },
-    "dbc749a61f352dc78621c582e6d5c1807eb00c6a": {
-      "SourceFileCommit": "b624182be96d793f629e6360006d6e39fef5ce7d",
-      "SourceFilePath": "virtualization\\hyperv_on_windows\\TOC.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-cn\\master\\dbc749a61f352dc78621c582e6d5c1807eb00c6a.xlf",
       "HandoffFileCommit": "60a27f0b91294bdb20c982559489e3d2f0a36e5c",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-10-13T03:51:20.0894202Z",
@@ -1605,6 +1590,21 @@
         "virtualization\\windowscontainers\\quick_start\\manage_docker.md",
         "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
       ]
+    },
+    "d8a4692ec68e58781b25eea1753a7c356b40763f": {
+      "SourceFileCommit": "3745d9afabada7419484c18a402249c8926ddec4",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\TOC.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-cn\\master\\d8a4692ec68e58781b25eea1753a7c356b40763f.xlf",
+      "HandoffFileCommit": "0ef7c56186ce80f4f31bc5e8de4860192c79eea7",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-10-23T20:38:32.0016418Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null
     }
   }
 }

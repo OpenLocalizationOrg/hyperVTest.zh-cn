@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/617631c687f043719d80f4ab8e84ffc3499cad70/virtualization/community/community_overview.md) | HandedOff | [Details](#5f641688282055225ac23cabd960c0bf2664c2ca94)
+ [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a2bbcbf46849c86a67f00a2f25a5bc965cd78f40/virtualization/community/community_overview.md) | HandedOff | [Details](#2e5b53041d95afaa2555d2a37fd87b0acb6b758694)
 
 ## Item Details
-##### <a name='5f641688282055225ac23cabd960c0bf2664c2ca94'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/617631c687f043719d80f4ab8e84ffc3499cad70/virtualization/community/community_overview.md)
+##### <a name='2e5b53041d95afaa2555d2a37fd87b0acb6b758694'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a2bbcbf46849c86a67f00a2f25a5bc965cd78f40/virtualization/community/community_overview.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/56a1456a27263da995e6852a2b84016b006bbf00/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf)
+* Handoff File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/96ebbde89866b02e78175ddce2cc81fbafa12a08/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf)
 * Handback File: 
-* Handoff Datetime: 2015-11-11 08:11:49
+* Handoff Datetime: 2015-11-11 08:20:25
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
 * [Back to Top](#report-top)

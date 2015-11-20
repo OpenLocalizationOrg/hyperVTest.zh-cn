@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/48689ab7f380768055e02f5ef6b7b724727ebd72/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | HandedOff | [Details](#fe46862ed0c0597d12f0ad1f316227e9e09301d6175)
+ [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/9a283b5170b3250c5c9c7d4539ecd55fd0ad7ba7/virtualization/hyperv_on_windows/user_guide/checkpoints.md) | HandedOff | [Details](#a43c4b1981e5a2c5c56f361d02c02e2a1b0f6e51184)
 
 ## Item Details
-##### <a name='fe46862ed0c0597d12f0ad1f316227e9e09301d6175'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/48689ab7f380768055e02f5ef6b7b724727ebd72/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
+##### <a name='a43c4b1981e5a2c5c56f361d02c02e2a1b0f6e51184'></a> Source: [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/9a283b5170b3250c5c9c7d4539ecd55fd0ad7ba7/virtualization/hyperv_on_windows/user_guide/checkpoints.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3ca1e18591d1ba58bb46968b9a588299d1527029/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.zh-cn.xlf)
-* Handoff Datetime: 2015-11-20 21:25:43
+* Handoff File: [checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/564a52dfb2ed2ff30f362561fa3c8eb44f386c1e/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.zh-cn.xlf)
+* Handoff Datetime: 2015-11-20 21:59:31
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00

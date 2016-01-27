@@ -6,15 +6,17 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/fa7245bd5b750ffbfc379a25c5ffb37ec1e2a3d4/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md) | HandedOffSuccess | [Details](#fb605680092e0493c692228abef134d68482c266169)
+ [virtualization\hyperv_on_windows\test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/86dfa441d7a9fcc35eab7d110136707a0cffb482/virtualization/hyperv_on_windows/test.md) | HandedOffSuccess | [Details](#a04371dfc184446dade04e9e8795028ede684c8f177)
 
 ## Item Details
-##### <a name='fb605680092e0493c692228abef134d68482c266169'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/fa7245bd5b750ffbfc379a25c5ffb37ec1e2a3d4/virtualization/hyperv_on_windows/quick_start/walkthrough_checkpoints.md)
+##### <a name='a04371dfc184446dade04e9e8795028ede684c8f177'></a> Source: [virtualization\hyperv_on_windows\test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/86dfa441d7a9fcc35eab7d110136707a0cffb482/virtualization/hyperv_on_windows/test.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/af6f84aef86dd2e5ca74980585fdc668c057fe00/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/live/walkthrough_checkpoints.06ccef918ac38bd6b778e8f9277879f20d6e1fd9.zh-cn.xlf)
-* Handoff Datetime: 2016-01-14 13:36:11
+* Handoff File: [test.8be2e9467c0b5c89283a9e20a4a3be701ce9258e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8211d837dbe722eb304cdc831e09d7a5f2b83ed4/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/live/test.8be2e9467c0b5c89283a9e20a4a3be701ce9258e.zh-cn.xlf)
+* Handoff Datetime: 2016-01-27 05:45:55
 * Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)

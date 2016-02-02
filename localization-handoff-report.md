@@ -6,21 +6,21 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\about\supported_guest_ms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/f5ee4c9cdb3aecdece5074ce0653b76549b54c00/virtualization/hyperv_on_windows/about/supported_guest_ms.md) | OutofSyncHandedBackSuccess | [Details](#30fdbdfbb66dcd22dd166646edc857724979376a99)
+ [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a097775f4dfd1080f82f8c4edb81a8a9511122c4/virtualization/hyperv_on_windows/community_overview.md) | OutofSyncHandedBackSuccess | [Details](#ed82379180ce28c9b02b33a59309bf760c5ec894101)
 
 ## Item Details
-##### <a name='30fdbdfbb66dcd22dd166646edc857724979376a99'></a> Source: [virtualization\hyperv_on_windows\about\supported_guest_ms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/f5ee4c9cdb3aecdece5074ce0653b76549b54c00/virtualization/hyperv_on_windows/about/supported_guest_ms.md)
+##### <a name='ed82379180ce28c9b02b33a59309bf760c5ec894101'></a> Source: [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a097775f4dfd1080f82f8c4edb81a8a9511122c4/virtualization/hyperv_on_windows/community_overview.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [supported_guest_ms.05a2b6ce4d8734fb3122b672cba0770faa12cdbe.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e06f88b0559a29cdfe3fed7f12b3686165177620/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/supported_guest_ms.05a2b6ce4d8734fb3122b672cba0770faa12cdbe.zh-cn.xlf)
-* Handoff Datetime: 2016-01-26 22:46:16
+* Handoff File: [community_overview.ce517e45719221eec569f55dd38764b6e117cfbb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/db85fb070f5788c8c537326081c52d4da382c782/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/community_overview.ce517e45719221eec569f55dd38764b6e117cfbb.zh-cn.xlf)
+* Handoff Datetime: 2016-02-02 22:27:58
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\hyperv_on_windows\about\supported_guest_ms.md](https://github.com/OpenLocalizationOrg/hyperVTest.zh-cn/blob/4cefcaec79c518cc404a26f3f4cad270d9d638df/virtualization/hyperv_on_windows/about/supported_guest_ms.md)
-* Current Handback File: [supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dffc79c3ac4b0f15ffca376f5393063e5d8be426/ol-handback/OpenLocalizationOrg/hyperVTest.zh-cn/master/supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.zh-cn.xlf)
+* Current Target File: [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest.zh-cn/blob/4cefcaec79c518cc404a26f3f4cad270d9d638df/virtualization/hyperv_on_windows/community_overview.md)
+* Current Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dffc79c3ac4b0f15ffca376f5393063e5d8be426/ol-handback/OpenLocalizationOrg/hyperVTest.zh-cn/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.zh-cn.xlf)
 * Current Handback Datetime: 2016-01-11 08:42:34
 * [Back to Top](#report-top)
 

@@ -1,29 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/78a41df59bd72682c55e25368f076eb77e07f7ec/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md) | OutofSyncHandedBackSuccess | [Details](#0e41ea622ba8163d206407cb4fe455084aa4a536177)
 
 ## Item Details
-##### <a name='0e41ea622ba8163d206407cb4fe455084aa4a536177'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/78a41df59bd72682c55e25368f076eb77e07f7ec/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/5dc1a388a69e73073085322ee3674e1c7ed2a0c8/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-cn.xlf)
-* Handoff Datetime: 2016-02-10 20:32:39
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest.zh-cn/blob/4cefcaec79c518cc404a26f3f4cad270d9d638df/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
-* Current Handback File: [walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dffc79c3ac4b0f15ffca376f5393063e5d8be426/ol-handback/OpenLocalizationOrg/hyperVTest.zh-cn/master/walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-cn.xlf)
-* Current Handback Datetime: 2016-01-11 08:42:34
-* [Back to Top](#report-top)
-
 
 ## Error Details
 

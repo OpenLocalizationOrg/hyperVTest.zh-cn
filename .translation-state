@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "86dfa441d7a9fcc35eab7d110136707a0cffb482",
-  "LastTranslatedCommit": "5855fa8e99387ec4672a8a71434c0bc5ea3d1798",
+  "LastTranslatedCommit": "9820e52de2e0be538374a0850faba4d376c8436d",
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
       "FileHash": "08796bf856b1936c65df41076765d9f33d79e268",
@@ -1393,7 +1393,7 @@
       "TargetFilePath": "virtualization\\hyperv_on_windows\\test.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.zh-cn\\live\\test.8be2e9467c0b5c89283a9e20a4a3be701ce9258e.zh-cn.xlf",
       "HandbackFileCommit": "df3e3c4437046076d16699d91240dcd2c693a7a0",
-      "HandbackDateTime": "2016-02-22T08:59:05.9224548Z",
+      "HandbackDateTime": "2016-02-22T09:00:01.2008547Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1403,7 +1403,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 2,
+      "HandbackFailureTimes": 3,
       "UpdatedDateTime": "2016-01-27T06:15:57.1985969Z",
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-cn\\live\\archive\\test.8be2e9467c0b5c89283a9e20a4a3be701ce9258e.zh-cn.xlf",
       "ArchiveFileCommit": "5c4d5577c1ff686cf56cdfa748da0d3dd87fc050",

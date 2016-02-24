@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb0717dfb20fe986a8a201bc636554f6f80acd1d/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | OutofSyncHandedBackSuccess | [Details](#1c3a7999ade59fa3a66011fa9511bf07585cf13a98)
+ [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/71d2f957d3dfb079e53a0db1bce97715f1d5cb96/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | OutofSyncHandedBackSuccess | [Details](#68665870f66743f7cfd49c1e19a5707b380dc7dd98)
 
 ## Item Details
-##### <a name='1c3a7999ade59fa3a66011fa9511bf07585cf13a98'></a> Source: [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/cb0717dfb20fe986a8a201bc636554f6f80acd1d/virtualization/hyperv_on_windows/about/powershell_snippets_new.md)
+##### <a name='68665870f66743f7cfd49c1e19a5707b380dc7dd98'></a> Source: [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/71d2f957d3dfb079e53a0db1bce97715f1d5cb96/virtualization/hyperv_on_windows/about/powershell_snippets_new.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3c50d006c610f4252108a68b6aff77bbc57befca/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.zh-cn.xlf)
-* Handoff Datetime: 2016-02-22 20:05:37
+* Handoff File: [powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/96b7738fa8fab64ffb8a5ab9d0072210b2604e87/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.zh-cn.xlf)
+* Handoff Datetime: 2016-02-24 19:16:02
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

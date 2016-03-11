@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/adfebdf929a23f01d0a9db18685d918f9c9e2079/virtualization/hyperv_on_windows/community_overview.md) | OutofSyncHandedBackSuccess | [Details](#5b30b0be58a5ee9ddf5698305e866498f4736183102)
+ [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b30a2353ddde91b99a313766350ca7328e2a6807/virtualization/hyperv_on_windows/community_overview.md) | OutofSyncHandedBackSuccess | [Details](#f9a872c4d5dd60826aad1eb291966649f2c3e1fd102)
 
 ## Item Details
-##### <a name='5b30b0be58a5ee9ddf5698305e866498f4736183102'></a> Source: [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/adfebdf929a23f01d0a9db18685d918f9c9e2079/virtualization/hyperv_on_windows/community_overview.md)
+##### <a name='f9a872c4d5dd60826aad1eb291966649f2c3e1fd102'></a> Source: [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b30a2353ddde91b99a313766350ca7328e2a6807/virtualization/hyperv_on_windows/community_overview.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [community_overview.ce517e45719221eec569f55dd38764b6e117cfbb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/310b5a05589e0de6062bdb6a7032fff90a1997a6/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/community_overview.ce517e45719221eec569f55dd38764b6e117cfbb.zh-cn.xlf)
-* Handoff Datetime: 2016-03-11 00:21:49
+* Handoff File: [community_overview.ce517e45719221eec569f55dd38764b6e117cfbb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9cf794c7fc6f0fc8b14fc8e77761397996f56a3d/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/community_overview.ce517e45719221eec569f55dd38764b6e117cfbb.zh-cn.xlf)
+* Handoff Datetime: 2016-03-11 18:52:08
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

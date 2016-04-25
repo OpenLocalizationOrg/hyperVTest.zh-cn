@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "7ef6ed54730ff9454bf4cded9f79fc99920a24ca",
+  "LastProcessedCommit": "a0033bd4839c03222c7191aab02a9962eaeac3e2",
   "LastTranslatedCommit": "fee3f0bcf6c6efd9180e4b21aad2ed4842a14957",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -64075,6 +64075,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-cn\\master\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf",
       "HandoffFileCommit": "03990896fdc99ce94cc0bb1babdfad9399a0b3d4",
       "HandoffDateTime": "2016-04-25T19:03:59.9198225Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "b21bad121bd37d4d290cce17134f5994adbdd54d": {
+      "FileHash": "b21bad121bd37d4d290cce17134f5994adbdd54d",
+      "SourceFileCommit": "a0033bd4839c03222c7191aab02a9962eaeac3e2",
+      "SourceFilePath": "Hyper-V\\albina\\Exclude.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "Hyper-V\\albina\\Exclude.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-cn\\master\\Exclude.bf8a0964704e8103d733b6103e138a69fdc8e032.zh-cn.xlf",
+      "HandoffFileCommit": "b38cfd6aecfe8448d07e2f2dfe77b0e8c89cbce2",
+      "HandoffDateTime": "2016-04-25T19:13:24.3529718Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,

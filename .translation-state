@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "5a6fb003b435450a2d7faa62811448ca82691546",
+  "LastProcessedCommit": "a296546fd7414ac322c0b81f7d887f6461f86fc3",
   "LastTranslatedCommit": "fee3f0bcf6c6efd9180e4b21aad2ed4842a14957",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
@@ -74554,6 +74554,40 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-cn\\master\\testing.d095caed768f7653f0acd02cfc9446d9d93282e0.zh-cn.xlf",
       "HandoffFileCommit": "6d68ad2a0c91545a387d59fa522d42965b793b66",
       "HandoffDateTime": "2016-06-10T20:44:47.6320562Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "7a37961bf12734b6136e0785be91f6ccb799960f": {
+      "FileHash": "7a37961bf12734b6136e0785be91f6ccb799960f",
+      "SourceFileCommit": "a296546fd7414ac322c0b81f7d887f6461f86fc3",
+      "SourceFilePath": "Tools\\testing.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "Tools\\testing.md"
+      ],
+      "HasMetadata": false,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperVTest.zh-cn\\master\\testing.d095caed768f7653f0acd02cfc9446d9d93282e0.zh-cn.xlf",
+      "HandoffFileCommit": "c31629a363a950faba29dc5977801e7234fdc620",
+      "HandoffDateTime": "2016-06-10T20:54:51.3936764Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,

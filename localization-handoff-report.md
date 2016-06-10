@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/Tools/testing.md) | HandedOffSuccess | [Details](#80c17b259d38f1c5edf4d1aa208304944b6d5f7995)
+ [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/Tools/testing.md) | HandedOffSuccess | [Details](#7a37961bf12734b6136e0785be91f6ccb799960f95)
 
 ## Item Details
-##### <a name='80c17b259d38f1c5edf4d1aa208304944b6d5f7995'></a> Source: [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/Tools/testing.md)
+##### <a name='7a37961bf12734b6136e0785be91f6ccb799960f95'></a> Source: [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/Tools/testing.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [testing.d095caed768f7653f0acd02cfc9446d9d93282e0.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6d68ad2a0c91545a387d59fa522d42965b793b66/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/testing.d095caed768f7653f0acd02cfc9446d9d93282e0.zh-cn.xlf)
-* Handoff Datetime: 2016-06-10 20:44:47
+* Handoff File: [testing.d095caed768f7653f0acd02cfc9446d9d93282e0.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c31629a363a950faba29dc5977801e7234fdc620/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/testing.d095caed768f7653f0acd02cfc9446d9d93282e0.zh-cn.xlf)
+* Handoff Datetime: 2016-06-10 20:54:51
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

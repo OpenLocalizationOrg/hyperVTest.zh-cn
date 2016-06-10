@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 270
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 4
+[ Handoff Success Files ](#handoff-success-list)| 3
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 6
 [ In Sync Handback Files ](#insync-handback-success-list)| 106
-[ Ignored Files ](#ignored-list)| 154
+[ Ignored Files ](#ignored-list)| 155
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -20,7 +20,6 @@
  ----------- | ------ | ------- 
  [Hyper-V\albina\Exclude.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a0033bd4839c03222c7191aab02a9962eaeac3e2/Hyper-V/albina/Exclude.md) | HandedOffSuccess | [Details](#b21bad121bd37d4d290cce17134f5994adbdd54d7)
  [README.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/d39eed5c7dc4a13d7e4bcbda4ea4ffa14ce68ca3/README.md) | HandedOffSuccess | [Details](#d6a08817ae44d1406bb13603138aed015ca0f7ef13)
- [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/Tools/testing.md) | HandedOffSuccess | [Details](#80c17b259d38f1c5edf4d1aa208304944b6d5f7995)
  [virtualization\hyperv_on_windows\user_guide\SonjaTestFile2.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3f9a78e08329da2bb4349fa83236743e9596847f/virtualization/hyperv_on_windows/user_guide/SonjaTestFile2.md) | HandedOffSuccess | [Details](#842f29e7e423c2ded4f3bef1a178ec7ac61df134198)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
@@ -245,6 +244,7 @@
  [Tools\onboarding.txt](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/Tools/onboarding.txt) | Ignored | [Details](#00e4530f3eb80b86546099b257a847bd3084461b92)
  [Tools\smsnotes.txt](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/Tools/smsnotes.txt) | Ignored | [Details](#c3518b2cd1c1eeab8262f38b8745ae747ff37f6e93)
  [Tools\stuff.txt](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/Tools/stuff.txt) | Ignored | [Details](#0294f9ac1c414491ceb24540a3e3be3fef0b5d4994)
+ [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/Tools/testing.md) | Ignored | [Details](#7a37961bf12734b6136e0785be91f6ccb799960f95)
  [virtualization\community\docfx.json](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/virtualization/community/docfx.json) | Ignored | [Details](#5766b15b947913f0453713d51436c75135ef55ac96)
  [virtualization\hyperv_on_windows\about\media\ProductionCheckpoints.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/virtualization/hyperv_on_windows/about/media/ProductionCheckpoints.png) | Ignored | [Details](#00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed098)
  [virtualization\hyperv_on_windows\about\media\StandardCheckpoints.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/virtualization/hyperv_on_windows/about/media/StandardCheckpoints.png) | Ignored | [Details](#907679edd04736394d4e796f706436d114baec4f99)
@@ -1448,12 +1448,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='80c17b259d38f1c5edf4d1aa208304944b6d5f7995'></a> Source: [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/Tools/testing.md)
-* Status: HandedOffSuccess
+##### <a name='7a37961bf12734b6136e0785be91f6ccb799960f95'></a> Source: [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/5a6fb003b435450a2d7faa62811448ca82691546/Tools/testing.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [testing.d095caed768f7653f0acd02cfc9446d9d93282e0.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6d68ad2a0c91545a387d59fa522d42965b793b66/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/testing.d095caed768f7653f0acd02cfc9446d9d93282e0.zh-cn.xlf)
-* Handoff Datetime: 2016-06-10 20:44:47
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 

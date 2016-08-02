@@ -5,11 +5,11 @@
  -------- | ----- 
  Total Files | 270
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 4
+[ Handoff Success Files ](#handoff-success-list)| 10
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 6
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 106
 [ Ignored Files ](#ignored-list)| 154
 
@@ -21,7 +21,13 @@
  [Hyper-V\albina\Exclude.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a0033bd4839c03222c7191aab02a9962eaeac3e2/Hyper-V/albina/Exclude.md) | HandedOffSuccess | [Details](#b21bad121bd37d4d290cce17134f5994adbdd54d7)
  [README.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/d39eed5c7dc4a13d7e4bcbda4ea4ffa14ce68ca3/README.md) | HandedOffSuccess | [Details](#d6a08817ae44d1406bb13603138aed015ca0f7ef13)
  [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a296546fd7414ac322c0b81f7d887f6461f86fc3/Tools/testing.md) | HandedOffSuccess | [Details](#7a37961bf12734b6136e0785be91f6ccb799960f95)
+ [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/71d2f957d3dfb079e53a0db1bce97715f1d5cb96/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | HandedOffSuccess | [Details](#68665870f66743f7cfd49c1e19a5707b380dc7dd100)
+ [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8cdb5ccb015c3c7a505ab1fe9b041854155c1703/virtualization/hyperv_on_windows/community_overview.md) | HandedOffSuccess | [Details](#fce46ae37d44358cab95a4c8480ef9a6abad3d2f104)
+ [virtualization\hyperv_on_windows\develop\make_mgmt_service_test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/44f886ded1508add732e1f27bdeacda43df35c5c/virtualization/hyperv_on_windows/develop/make_mgmt_service_test.md) | HandedOffSuccess | [Details](#f1c960042aeca4ef7c858c8b854aa0bf278fac0b105)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/78a41df59bd72682c55e25368f076eb77e07f7ec/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md) | HandedOffSuccess | [Details](#0e41ea622ba8163d206407cb4fe455084aa4a536180)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_install.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/6f34593856474ea8730865a61cfa77142035962c/virtualization/hyperv_on_windows/quick_start/walkthrough_install.md) | HandedOffSuccess | [Details](#4cc306b2a660677961443d3cf14f442ad126913c182)
  [virtualization\hyperv_on_windows\user_guide\SonjaTestFile2.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/3f9a78e08329da2bb4349fa83236743e9596847f/virtualization/hyperv_on_windows/user_guide/SonjaTestFile2.md) | HandedOffSuccess | [Details](#842f29e7e423c2ded4f3bef1a178ec7ac61df134198)
+ [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/9cbd523c2d5eb9c618da26e9ad389dc203f6d063/virtualization/windowscontainers/quick_start/manage_powershell.md) | HandedOffSuccess | [Details](#83ede64998d302769fe95b606da20296f3bccae5230)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -30,14 +36,6 @@
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/71d2f957d3dfb079e53a0db1bce97715f1d5cb96/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | OutofSyncHandedBackSuccess | [Details](#68665870f66743f7cfd49c1e19a5707b380dc7dd100)
- [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8cdb5ccb015c3c7a505ab1fe9b041854155c1703/virtualization/hyperv_on_windows/community_overview.md) | OutofSyncHandedBackSuccess | [Details](#fce46ae37d44358cab95a4c8480ef9a6abad3d2f104)
- [virtualization\hyperv_on_windows\develop\make_mgmt_service_test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/44f886ded1508add732e1f27bdeacda43df35c5c/virtualization/hyperv_on_windows/develop/make_mgmt_service_test.md) | OutofSyncHandedBackSuccess | [Details](#f1c960042aeca4ef7c858c8b854aa0bf278fac0b105)
- [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/78a41df59bd72682c55e25368f076eb77e07f7ec/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md) | OutofSyncHandedBackSuccess | [Details](#0e41ea622ba8163d206407cb4fe455084aa4a536180)
- [virtualization\hyperv_on_windows\quick_start\walkthrough_install.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/6f34593856474ea8730865a61cfa77142035962c/virtualization/hyperv_on_windows/quick_start/walkthrough_install.md) | OutofSyncHandedBackSuccess | [Details](#4cc306b2a660677961443d3cf14f442ad126913c182)
- [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/9cbd523c2d5eb9c618da26e9ad389dc203f6d063/virtualization/windowscontainers/quick_start/manage_powershell.md) | OutofSyncHandedBackSuccess | [Details](#83ede64998d302769fe95b606da20296f3bccae5230)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
@@ -1511,7 +1509,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='68665870f66743f7cfd49c1e19a5707b380dc7dd100'></a> Source: [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/71d2f957d3dfb079e53a0db1bce97715f1d5cb96/virtualization/hyperv_on_windows/about/powershell_snippets_new.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/96b7738fa8fab64ffb8a5ab9d0072210b2604e87/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/powershell_snippets_new.45c9d9c49f99a81f8765be81c829ff924ef26b7d.zh-cn.xlf)
 * Handoff Datetime: 2016-02-24 19:16:02
@@ -1568,7 +1566,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='fce46ae37d44358cab95a4c8480ef9a6abad3d2f104'></a> Source: [virtualization\hyperv_on_windows\community_overview.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8cdb5ccb015c3c7a505ab1fe9b041854155c1703/virtualization/hyperv_on_windows/community_overview.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [community_overview.ce517e45719221eec569f55dd38764b6e117cfbb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/aa8d3e613ab0eaf70bfd6eb8b5e48cb381f8ab4e/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/community_overview.ce517e45719221eec569f55dd38764b6e117cfbb.zh-cn.xlf)
 * Handoff Datetime: 2016-03-11 19:02:12
@@ -1585,7 +1583,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='f1c960042aeca4ef7c858c8b854aa0bf278fac0b105'></a> Source: [virtualization\hyperv_on_windows\develop\make_mgmt_service_test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/44f886ded1508add732e1f27bdeacda43df35c5c/virtualization/hyperv_on_windows/develop/make_mgmt_service_test.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [make_mgmt_service_test.60a5f6ea8f560d274fd98affacf2a5f9da3137f1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/a314075a0f598892e3f7e6fd629bd82c4adfd875/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/make_mgmt_service_test.60a5f6ea8f560d274fd98affacf2a5f9da3137f1.zh-cn.xlf)
 * Handoff Datetime: 2016-03-03 00:07:47
@@ -2544,7 +2542,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='0e41ea622ba8163d206407cb4fe455084aa4a536180'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/78a41df59bd72682c55e25368f076eb77e07f7ec/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/5dc1a388a69e73073085322ee3674e1c7ed2a0c8/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-cn.xlf)
 * Handoff Datetime: 2016-02-10 20:32:39
@@ -2575,7 +2573,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4cc306b2a660677961443d3cf14f442ad126913c182'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_install.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/6f34593856474ea8730865a61cfa77142035962c/virtualization/hyperv_on_windows/quick_start/walkthrough_install.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [walkthrough_install.775f3dd3ffd893bcec04436e9648ed46ba3e501e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3f1d954bf267b30058900b894e48afb95a740f3a/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/walkthrough_install.775f3dd3ffd893bcec04436e9648ed46ba3e501e.zh-cn.xlf)
 * Handoff Datetime: 2016-02-10 20:22:53
@@ -3212,7 +3210,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='83ede64998d302769fe95b606da20296f3bccae5230'></a> Source: [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/9cbd523c2d5eb9c618da26e9ad389dc203f6d063/virtualization/windowscontainers/quick_start/manage_powershell.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/88482d24607b627a8edabea15d33cafaaafc4be4/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.zh-cn.xlf)
 * Handoff Datetime: 2016-01-21 08:34:11

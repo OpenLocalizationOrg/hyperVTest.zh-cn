@@ -8,9 +8,9 @@
 [ Handoff Success Files ](#handoff-success-list)| 42
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 0
+[ Handback Failed Files ](#handback-failed-list)| 1
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 1
+[ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 215
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -66,13 +66,13 @@
 ## <a name='archive-success-list'></a> Archive Success File List
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/86dfa441d7a9fcc35eab7d110136707a0cffb482/virtualization/hyperv_on_windows/test.md) | HandedBackFailed | [Details](#a04371dfc184446dade04e9e8795028ede684c8f177)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/86dfa441d7a9fcc35eab7d110136707a0cffb482/virtualization/hyperv_on_windows/test.md) | InSyncHandedBackSuccess | [Details](#a04371dfc184446dade04e9e8795028ede684c8f177)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -2419,7 +2419,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a04371dfc184446dade04e9e8795028ede684c8f177'></a> Source: [virtualization\hyperv_on_windows\test.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/86dfa441d7a9fcc35eab7d110136707a0cffb482/virtualization/hyperv_on_windows/test.md)
-* Status: InSyncHandedBackSuccess
+* Status: HandedBackFailed
 * Target File: [virtualization\hyperv_on_windows\test.md](https://github.com/OpenLocalizationOrg/hyperVTest.zh-cn/blob/513428d5cebe9a52d70ce3ae013772b525e69380/virtualization/hyperv_on_windows/test.md)
 * Handoff File: [test.8be2e9467c0b5c89283a9e20a4a3be701ce9258e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8211d837dbe722eb304cdc831e09d7a5f2b83ed4/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/live/test.8be2e9467c0b5c89283a9e20a4a3be701ce9258e.zh-cn.xlf)
 * Handoff Datetime: 2016-01-27 05:45:55

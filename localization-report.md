@@ -5,10 +5,10 @@
  -------- | ----- 
  Total Files | 270
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 116
+[ Handoff Success Files ](#handoff-success-list)| 115
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 0
+[ Handback Failed Files ](#handback-failed-list)| 1
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 154
@@ -21,7 +21,6 @@
  [Hyper-V\albina\Exclude.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a0033bd4839c03222c7191aab02a9962eaeac3e2/Hyper-V/albina/Exclude.md) | HandedOffSuccess | [Details](#b21bad121bd37d4d290cce17134f5994adbdd54d7)
  [README.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/d39eed5c7dc4a13d7e4bcbda4ea4ffa14ce68ca3/README.md) | HandedOffSuccess | [Details](#d6a08817ae44d1406bb13603138aed015ca0f7ef13)
  [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ee7e6ea192d784fb7196b226c7d7aebe259bcb1f/Tools/testing.md) | HandedOffSuccess | [Details](#77855662a6dfdc1625fd93d8db4318d1db6ec07995)
- [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/13bf665622f6f41c973c6653db028ab596781453/virtualization/community/TOC.md) | HandedOffSuccess | [Details](#53d0f485274b11af75ea6ed67fefd7cc5ecdf1c597)
  [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/71d2f957d3dfb079e53a0db1bce97715f1d5cb96/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | HandedOffSuccess | [Details](#68665870f66743f7cfd49c1e19a5707b380dc7dd100)
  [virtualization\hyperv_on_windows\about\supported_guest_ms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/f5ee4c9cdb3aecdece5074ce0653b76549b54c00/virtualization/hyperv_on_windows/about/supported_guest_ms.md) | HandedOffSuccess | [Details](#30fdbdfbb66dcd22dd166646edc857724979376a101)
  [virtualization\hyperv_on_windows\about\whats_new_nov.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/c4f9a1ec2eb07475db76c71b7d8a522f0f32a26d/virtualization/hyperv_on_windows/about/whats_new_nov.md) | HandedOffSuccess | [Details](#e16d508640119c3960e875aaa3b3c1ce48d7bfc6102)
@@ -140,6 +139,9 @@
 ## <a name='archive-success-list'></a> Archive Success File List
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/13bf665622f6f41c973c6653db028ab596781453/virtualization/community/TOC.md) | HandedBackFailed | [Details](#53d0f485274b11af75ea6ed67fefd7cc5ecdf1c597)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
@@ -1469,7 +1471,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='53d0f485274b11af75ea6ed67fefd7cc5ecdf1c597'></a> Source: [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/13bf665622f6f41c973c6653db028ab596781453/virtualization/community/TOC.md)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest.zh-cn/blob/4cefcaec79c518cc404a26f3f4cad270d9d638df/virtualization/community/TOC.md)
 * Handoff File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e1a90614f8ee5008168dde56d24ae90fe19aac6e/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.xlf)
 * Handoff Datetime: 2016-08-03 06:58:32
@@ -1477,7 +1479,8 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dffc79c3ac4b0f15ffca376f5393063e5d8be426/ol-handback/OpenLocalizationOrg/hyperVTest.zh-cn/master/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.xlf)
-* Handback Datetime: 2016-01-11 08:42:34
+* Handback Datetime: 2016-08-03 07:27:20
+* Handback Error: [handback_validate_file_name_invalide](#53d0f485274b11af75ea6ed67fefd7cc5ecdf1c597handback_validate_file_name_invalide)
 * Bilingual File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dffc79c3ac4b0f15ffca376f5393063e5d8be426/ol-handback/OpenLocalizationOrg/hyperVTest.zh-cn/master/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.xlf)
 * Bilingual Datetime: 2016-06-28 05:50:31
 * [Back to Top](#report-top)
@@ -3716,5 +3719,11 @@
 
 
 ## Error Details
+##### <a name='53d0f485274b11af75ea6ed67fefd7cc5ecdf1c597handback_validate_file_name_invalide'></a> Source: [virtualization\community\TOC.md](#53d0f485274b11af75ea6ed67fefd7cc5ecdf1c597)
+* Error Code: handback_validate_file_name_invalide
+* Error Message: Handback file name: TOC.4885638d1b97b11bc739bfa927a9ccebda99114f.zh-cn is different with handoff file name: TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: TOC.4885638d1b97b11bc739bfa927a9ccebda99114f.zh-cn is different with handoff file name: TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.","internal_error_retriable":false,"exception_message":"Handback file name: TOC.4885638d1b97b11bc739bfa927a9ccebda99114f.zh-cn is different with handoff file name: TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 
 Generated by OpenLocalization.

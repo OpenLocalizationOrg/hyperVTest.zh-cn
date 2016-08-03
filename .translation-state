@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "ee7e6ea192d784fb7196b226c7d7aebe259bcb1f",
-  "LastTranslatedCommit": "fee3f0bcf6c6efd9180e4b21aad2ed4842a14957",
+  "LastTranslatedCommit": "56d0c1f41540b6029ddbcca76165a5aaae3097c7",
   "Items": {
     "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": {
       "FileHash": "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea",
@@ -4811,9 +4811,17 @@
       "TargetFilePath": "virtualization\\community\\TOC.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperVTest.zh-cn\\master\\TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.xlf",
       "HandbackFileCommit": "dffc79c3ac4b0f15ffca376f5393063e5d8be426",
-      "HandbackDateTime": "2016-01-11T08:42:34.2384395Z",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-08-03T07:27:20.8109193Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: TOC.4885638d1b97b11bc739bfa927a9ccebda99114f.zh-cn is different with handoff file name: TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: TOC.4885638d1b97b11bc739bfa927a9ccebda99114f.zh-cn is different with handoff file name: TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "2016-01-11T08:42:34.2384395Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,

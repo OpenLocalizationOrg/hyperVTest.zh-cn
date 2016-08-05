@@ -7,8 +7,8 @@
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 115
-[ Handback Failed Files ](#handback-failed-list)| 1
+[ Archive Success Files ](#archive-success-list)| 116
+[ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 154
@@ -25,6 +25,7 @@
  [Hyper-V\albina\Exclude.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/a0033bd4839c03222c7191aab02a9962eaeac3e2/Hyper-V/albina/Exclude.md) | ArchivedSuccess | [Details](#b21bad121bd37d4d290cce17134f5994adbdd54d7)
  [README.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/d39eed5c7dc4a13d7e4bcbda4ea4ffa14ce68ca3/README.md) | ArchivedSuccess | [Details](#d6a08817ae44d1406bb13603138aed015ca0f7ef13)
  [Tools\testing.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ee7e6ea192d784fb7196b226c7d7aebe259bcb1f/Tools/testing.md) | ArchivedSuccess | [Details](#77855662a6dfdc1625fd93d8db4318d1db6ec07995)
+ [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/13bf665622f6f41c973c6653db028ab596781453/virtualization/community/TOC.md) | ArchivedSuccess | [Details](#53d0f485274b11af75ea6ed67fefd7cc5ecdf1c597)
  [virtualization\hyperv_on_windows\about\powershell_snippets_new.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/71d2f957d3dfb079e53a0db1bce97715f1d5cb96/virtualization/hyperv_on_windows/about/powershell_snippets_new.md) | ArchivedSuccess | [Details](#68665870f66743f7cfd49c1e19a5707b380dc7dd100)
  [virtualization\hyperv_on_windows\about\supported_guest_ms.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/f5ee4c9cdb3aecdece5074ce0653b76549b54c00/virtualization/hyperv_on_windows/about/supported_guest_ms.md) | ArchivedSuccess | [Details](#30fdbdfbb66dcd22dd166646edc857724979376a101)
  [virtualization\hyperv_on_windows\about\whats_new_nov.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/c4f9a1ec2eb07475db76c71b7d8a522f0f32a26d/virtualization/hyperv_on_windows/about/whats_new_nov.md) | ArchivedSuccess | [Details](#e16d508640119c3960e875aaa3b3c1ce48d7bfc6102)
@@ -139,9 +140,6 @@
  [virtualization\windowscontainers\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8e73cba8c56403581446c650b49e2323524823dd/virtualization/windowscontainers/TOC.md) | ArchivedSuccess | [Details](#c9a613b41195c01471a39d59e0fccdb2e226b08a269)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/13bf665622f6f41c973c6653db028ab596781453/virtualization/community/TOC.md) | HandedBackFailed | [Details](#53d0f485274b11af75ea6ed67fefd7cc5ecdf1c597)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
@@ -1471,7 +1469,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='53d0f485274b11af75ea6ed67fefd7cc5ecdf1c597'></a> Source: [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/13bf665622f6f41c973c6653db028ab596781453/virtualization/community/TOC.md)
-* Status: HandedBackFailed
+* Status: ArchivedSuccess
 * Target File: [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest.zh-cn/blob/4cefcaec79c518cc404a26f3f4cad270d9d638df/virtualization/community/TOC.md)
 * Handoff File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e1a90614f8ee5008168dde56d24ae90fe19aac6e/ol-handoff/OpenLocalizationOrg/hyperVTest.zh-cn/master/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.zh-cn.xlf)
 * Handoff Datetime: 2016-08-03 06:58:32
